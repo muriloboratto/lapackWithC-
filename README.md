@@ -1,4 +1,4 @@
-# Sample C++ project using LAPACK with C++
+# Sample C++ project using LAPACK
 
 Based on [LAPACK codes](https://www.netlib.org/lapack/), this C++ project aims to:
 
